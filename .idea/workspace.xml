@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:jjjjj" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bf23647-c373-4327-82c6-41b08762af26" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jG7xVUYSNs6Rz8xIw1QidWptek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.sp11.fallback" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cgb111\springcloud01\config" />
+      <recent name="D:\cgb111\springcloud01\sp05-eureka\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Sp09FeignApplication">
+    <configuration name="Sp02Item-8002" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.sp02.Sp02ItemserviceApplication" />
+      <module name="sp02-itemservice" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.sp02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp03UserserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.sp03.Sp03UserserviceApplication" />
+      <module name="sp03-userservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.sp03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp04OrderserviceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.sp04.Sp04OrderserviceApplication" />
+      <module name="sp04-orderservice" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8201" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.sp04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp05Eureka-2001" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.sp05.Sp05EurekaApplication" />
+      <module name="sp05-eureka" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka1 --server.port=2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.sp05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp05Eureka-2002" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.sp05.Sp05EurekaApplication" />
+      <module name="sp05-eureka" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=eureka2 --server.port=2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.sp05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp08HystrixDashboardApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sp08-hystrix-dashboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.sp08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tedu.sp08" />
+      <option name="MAIN_CLASS_NAME" value="cn.tedu.sp08.Sp08HystrixDashboardApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp02Itemservice-8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp02-itemservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp02.Sp02ItemserviceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="port" />
+          <option name="value" value="8001" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp02Itemservice-8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp02-itemservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp02.Sp02ItemserviceApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp03UserserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp03-userservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp03.Sp03UserserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp04Orderservice-8201" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp04-orderservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp04.Sp04OrderserviceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="port" />
+          <option name="value" value="8201" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp04Orderservice-8202" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp04-orderservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp04.Sp04OrderserviceApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8202" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="name" value="port" />
+          <option name="value" value="8202" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp05Eureka2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp05-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp05.Sp05EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="port" />
+          <option name="value" value="2001" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp05Eureka2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp05-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp05.Sp05EurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=2002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp06RibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp06-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp06.Sp06RibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp08HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp08-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp08.Sp08HystrixDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp09FeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sp09-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.sp09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp09.Sp09FeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp10TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp10-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sp10.Sp10TurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp11ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp11-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sp11.Sp11ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sp99TestkkkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sp99-testkkk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.sp99.Sp99TestkkkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sp02Item-8002" />
+      <item itemvalue="Application.Sp05Eureka-2002" />
+      <item itemvalue="Application.Sp03UserserviceApplication" />
+      <item itemvalue="Application.Sp04OrderserviceApplication" />
+      <item itemvalue="Application.Sp05Eureka-2001" />
+      <item itemvalue="JUnit.Sp08HystrixDashboardApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.Sp11ZuulApplication" />
+      <item itemvalue="Spring Boot.Sp03UserserviceApplication" />
+      <item itemvalue="Spring Boot.Sp08HystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.Sp02Itemservice-8001" />
+      <item itemvalue="Spring Boot.Sp05Eureka2001" />
+      <item itemvalue="Spring Boot.Sp02Itemservice-8002" />
+      <item itemvalue="Spring Boot.Sp05Eureka2002" />
+      <item itemvalue="Spring Boot.Sp04Orderservice-8201" />
+      <item itemvalue="Spring Boot.Sp04Orderservice-8202" />
+      <item itemvalue="Spring Boot.Sp06RibbonApplication" />
+      <item itemvalue="Spring Boot.Sp10TurbineApplication" />
+      <item itemvalue="Spring Boot.Sp99TestkkkApplication" />
+      <item itemvalue="Spring Boot.Sp09FeignApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Sp09FeignApplication" />
+        <item itemvalue="JUnit.Sp08HystrixDashboardApplicationTests.contextLoads" />
+        <item itemvalue="Application.Sp05Eureka-2001" />
+        <item itemvalue="Application.Sp04OrderserviceApplication" />
+        <item itemvalue="Application.Sp03UserserviceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf23647-c373-4327-82c6-41b08762af26" name="Default Changelist" comment="" />
+      <created>1603418822916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603418822916</updated>
+      <workItem from="1603701882866" duration="86000" />
+      <workItem from="1603701989855" duration="102000" />
+      <workItem from="1603702108471" duration="284000" />
+      <workItem from="1603703058600" duration="335000" />
+      <workItem from="1603703422212" duration="2123000" />
+      <workItem from="1603760165465" duration="13399000" />
+      <workItem from="1603847194936" duration="18464000" />
+      <workItem from="1603934988503" duration="1375000" />
+      <workItem from="1603970887533" duration="1515000" />
+      <workItem from="1603972599544" duration="57000" />
+      <workItem from="1603972677238" duration="452000" />
+      <workItem from="1604020181539" duration="2830000" />
+      <workItem from="1604023069879" duration="16483000" />
+      <workItem from="1604279235515" duration="4823000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1603973030331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603973030331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1603973045004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603973045004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="93" key="#Project_Structure" timestamp="1604020787190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604020787190" />
+    <state x="414" y="174" width="1092" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604020919312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604020919312" />
+    <state x="655" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603681144865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603681144865" />
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1604043001540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604043001540" />
+    <state x="443" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603865305989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603865305989" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1604289640424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604289640424" />
+    <state width="1483" height="264" key="GridCell.Tab.0.bottom" timestamp="1604053590643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590643" />
+    <state width="1483" height="264" key="GridCell.Tab.0.center" timestamp="1604053590642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590642" />
+    <state width="1483" height="264" key="GridCell.Tab.0.left" timestamp="1604053590642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590642" />
+    <state width="1483" height="264" key="GridCell.Tab.0.right" timestamp="1604053590642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590642" />
+    <state width="1483" height="264" key="GridCell.Tab.1.bottom" timestamp="1604053590643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590643" />
+    <state width="1483" height="264" key="GridCell.Tab.1.center" timestamp="1604053590643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590643" />
+    <state width="1483" height="264" key="GridCell.Tab.1.left" timestamp="1604053590643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590643" />
+    <state width="1483" height="264" key="GridCell.Tab.1.right" timestamp="1604053590643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="264" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604053590643" />
+    <state x="675" y="147" key="SettingsEditor" timestamp="1604289729314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="147" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604289729314" />
+    <state x="681" y="250" width="564" height="524" key="StructurePopup" timestamp="1603872282767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="250" width="564" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1603872282767" />
+    <state x="1243" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603972811685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1243" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603972811685" />
+    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1603679065078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603679065078" />
+    <state x="6" y="302" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603972806912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="6" y="302" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603972806912" />
+    <state x="250" y="150" key="new project wizard" timestamp="1604048718719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="250" y="150" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604048718719" />
+    <state x="708" y="414" width="628" height="558" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1603783707457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="414" width="628" height="558" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603783707457" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604043216384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604043216384" />
+  </component>
+</project>

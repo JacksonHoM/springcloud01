@@ -1,0 +1,11 @@
+#application-eureka1.yml
+#激活当前profile:  --spring.profiles.active=eureka1
+
+eureka:
+  instance:
+    hostname: eureka1 #集群服务器间用主机名区分
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka2:2002/eureka
