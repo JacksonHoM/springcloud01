@@ -12,6 +12,7 @@
         <module name="sp04-orderservice" />
         <module name="sp99-testkkk" />
         <module name="sp06-ribbon" />
+        <module name="sp12-config" />
         <module name="sp09-feign" />
         <module name="sp05-eureka" />
         <module name="sp08-hystrix-dashboard" />
@@ -30,6 +31,7 @@
       <module name="sp09-feign" target="1.8" />
       <module name="sp10-turbine" target="1.8" />
       <module name="sp11-zuul" target="1.8" />
+      <module name="sp12-config" target="1.8" />
       <module name="sp99-testkkk" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -44,6 +46,7 @@
       <module name="sp09-feign" options="-parameters" />
       <module name="sp10-turbine" options="-parameters" />
       <module name="sp11-zuul" options="-parameters" />
+      <module name="sp12-config" options="-parameters" />
       <module name="sp99-testkkk" options="-parameters" />
     </option>
   </component>
