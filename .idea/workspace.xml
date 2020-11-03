@@ -22,70 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bf23647-c373-4327-82c6-41b08762af26" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_context_slf4j_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpasyncclient_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpclient_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_jms_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_clients_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_streams_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_messaging_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_rpc_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_servlet_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_rabbit_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_web_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_webmvc_5_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_brave_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_metrics_micrometer_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_activemq_client_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_amqp_client_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka_2_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_21_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_2_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="5bf23647-c373-4327-82c6-41b08762af26" name="Default Changelist" comment="添加rabbitmq &amp; zipkin">
+      <change afterPath="$PROJECT_DIR$/sp12-config/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/item-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/item-service-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/order-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/order-service-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/user-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/user-service-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/zull-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/zull-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp02-itemservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp02-itemservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp02-itemservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp02-itemservice/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp03-userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp03-userservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp03-userservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp03-userservice/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp04-orderservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp04-orderservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp04-orderservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp04-orderservice/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp11-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sp11-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sp11-zuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp11-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp12-config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sp12-config/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -451,7 +391,7 @@
       <workItem from="1604020181539" duration="2830000" />
       <workItem from="1604023069879" duration="16483000" />
       <workItem from="1604279235515" duration="11408000" />
-      <workItem from="1604365529931" duration="3363000" />
+      <workItem from="1604365529931" duration="8310000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1603973030331</created>
@@ -467,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603973045004</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加rabbitmq &amp; zipkin">
+      <created>1604369696190</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604369696190</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +434,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="添加rabbitmq &amp; zipkin" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加rabbitmq &amp; zipkin" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="93" key="#Project_Structure" timestamp="1604020787190">
@@ -514,38 +462,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604365865870" />
-    <state width="1483" height="563" key="GridCell.Tab.0.bottom" timestamp="1604367660552">
+    <state width="1483" height="294" key="GridCell.Tab.0.bottom" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660552" />
-    <state width="1483" height="563" key="GridCell.Tab.0.center" timestamp="1604367660552">
+    <state width="1483" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
+    <state width="1483" height="294" key="GridCell.Tab.0.center" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660552" />
-    <state width="1483" height="563" key="GridCell.Tab.0.left" timestamp="1604367660551">
+    <state width="1483" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
+    <state width="1483" height="294" key="GridCell.Tab.0.left" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660551" />
-    <state width="1483" height="563" key="GridCell.Tab.0.right" timestamp="1604367660552">
+    <state width="1483" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
+    <state width="1483" height="294" key="GridCell.Tab.0.right" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660552" />
-    <state width="1483" height="563" key="GridCell.Tab.1.bottom" timestamp="1604367660553">
+    <state width="1483" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
+    <state width="1483" height="294" key="GridCell.Tab.1.bottom" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660553" />
-    <state width="1483" height="563" key="GridCell.Tab.1.center" timestamp="1604367660552">
+    <state width="1483" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
+    <state width="1483" height="294" key="GridCell.Tab.1.center" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660552" />
-    <state width="1483" height="563" key="GridCell.Tab.1.left" timestamp="1604367660552">
+    <state width="1483" height="294" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
+    <state width="1483" height="294" key="GridCell.Tab.1.left" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660552" />
-    <state width="1483" height="563" key="GridCell.Tab.1.right" timestamp="1604367660552">
+    <state width="1483" height="294" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
+    <state width="1483" height="294" key="GridCell.Tab.1.right" timestamp="1604375276154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1483" height="563" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604367660552" />
+    <state width="1483" height="294" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604375276154" />
     <state x="675" y="147" key="SettingsEditor" timestamp="1604289729314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -554,6 +502,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="250" width="564" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1603872282767" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604369721693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604369721693" />
     <state x="1243" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603972811685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
